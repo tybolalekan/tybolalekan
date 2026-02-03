@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## Embedded Systems Engineer | Embedded Linux | AIoT | Data & Analytics
 
-I am an **Embedded Systems Engineer** with hands-on experience designing, building, and deploying **reliable firmware, embedded Linux systems, and data-driven solutions**. My work focuses on practical engineering — systems that move beyond prototypes and perform reliably in real-world environments.
+I am an **Embedded Systems Engineer** with hands-on experience designing, building, and deploying **reliable firmware, embedded Linux systems, and data-driven solutions**. My work focuses on practical engineering systems that move beyond prototypes and perform reliably in real-world environments.
 
 I work comfortably across the stack: from **low-level microcontroller firmware and hardware interfaces** to **networked IoT systems, analytics, and AI-assisted workflows**. I value clarity, documentation, and engineering decisions that scale.
 
